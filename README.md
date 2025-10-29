@@ -1,4 +1,7 @@
 [![Discord Chat](https://img.shields.io/discord/934204308168261682.svg)](https://discord.gg/CuXJx8vJ2y)
+
+# Updated for uses fully 100 % offline, just start a python web server from index.html's directory
+
 # .midi to Clone Hero
 .midi to [Clone Hero](https://clonehero.net/) converter
 
